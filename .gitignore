@@ -1,7 +1,0 @@
-*
-
-# But not these files...
-!.gitignore
-!projectFiles
-!projectFiles/**/**
-/projectFiles/**/*.csv
